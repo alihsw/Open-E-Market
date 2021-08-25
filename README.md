@@ -1,1 +1,1 @@
-Simple open source platform for online e commerce developed by Iraqis people.
+Simple open source platform for online e commerce developed by Iraqis people.[Mobile Application]
